@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * Verónica Vigaray Juárez
  */
 
 public class Lib {
